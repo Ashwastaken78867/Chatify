@@ -7,6 +7,6 @@
     "start": "npm run start --prefix backend"
   },
   "engines": {
-    "node": "20.x"
+    "node": ">=22"
   }
 }
